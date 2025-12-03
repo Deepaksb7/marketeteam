@@ -26,14 +26,14 @@ const HeroContentRight = () => {
       rotate: -360, 
       duration: 2,
       ease: "power3.out",
-      repeat: 5, 
+      repeat: 2, 
     },"+=0.5");
     
     tl.to(".middle1Ring", {
       rotate: -360, 
       duration: 2,
       ease: "power3.out",
-      repeat: 5, 
+      repeat: 2, 
  
     },"+=0.5");
 
@@ -42,7 +42,7 @@ const HeroContentRight = () => {
       rotate: -360, 
       duration: 2,
       ease: "power3.out",
-      repeat: 5, 
+      repeat: 2, 
     },"+=0.5");
 
 
@@ -51,7 +51,7 @@ const HeroContentRight = () => {
       rotate: -360, 
       duration: 1.5,
       ease: "power3.out",
-      repeat: 5, 
+      repeat: 2, 
    
     },"+=0.5");
     

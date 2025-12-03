@@ -56,17 +56,6 @@ If you're using **yarn**:
 
 This will install all dependencies listed in the `package.json` file.
 
-### 3. **Set Up Environment Variables (Optional)**
-
-Some Next.js projects might require environment variables, especially for API keys or database connections.
-
-1. Check the project for an `.env.example` or `.env` file. If one exists, copy it to `.env`:
-
-    ```bash
-    cp .env.example .env
-    ```
-
-2. Open the `.env` file and configure it with your required values (e.g., API keys, database URLs).
 
 ### 4. **Run the Development Server**
 
